@@ -22,17 +22,13 @@ Current Nodes
 
 Alpha – Ryzen 9 powerhouse for testing, dual-boot Arch + Windows
 
-Bravo – Proxmox VM for firewall and network security
+Bravo – Renewed Business Class Laptop
 
 Charlie – Storage and backup server
 
 Delta – Entertainment (Plex, Jellyfin, Minecraft, etc.)
 
 Echo – AM4 test bench for experiments and emulation
-
-Foxtrot – Productivity and college laptop
-
-Gamma – Gaming workhorse laptop
 
 
 Each node has its own folder with detailed specs, history, and photos.
