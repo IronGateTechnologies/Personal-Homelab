@@ -20,48 +20,46 @@ Track the growth of the lab over months and years
 
 Current Nodes
 
-Alpha – Ryzen 9 powerhouse for testing; dual-boots Linux Mint and a Talon-Debloated Windows 11
-Bravo – Renewed HP Envy business-class laptop running Linux Mint
-Charlie – Dedicated storage and backup server
-Delta – High-performance Proxmox server
-Echo – Home Theater PC / Gaming Center running Bazzite Linux
-Golf – ThinkPad T440 with Linux Mint (field laptop for off-site work)
-Hotel – HP Printer/Scanner for document backups and digitization
-India – Dell PowerEdge R710 running Proxmox, ensuring no enterprise-grade resources go underutilized
+Alpha – Ryzen 9 powerhouse for testing, dual-boot Linux Mint and a Debloated Version of Windows 11 (Couresy of the Talon Debloat Script)
 
-Upcoming/Planned Adds:
+Bravo – Renewed Business Class Laptop HP Envy w/ Linux Mint
 
-2× Dell Wyse 5070 SFF units
+Charlie – Storage and backup server
 
-One will serve as a router using a USB 3.0 → Ethernet adapter
+Delta – High Performance ProxMox Server 
 
-The other will be implemented in a LAN security / monitoring capacity
+Echo – Home Theater PC / Gaming Cener with Bazzite Linux
 
-3× Budget Gaming PCs
+Golf - ThinkPad T440 With Linux Mint (Field Laptop for Out of Office work in the field)
 
-Built for resale; if not sold, will be added as low-power homelab nodes with efficiency-tuned BIOS profiles
+Hotel - HP Printer/Scanner foor document backup and digitzing. 
 
-Each node has its own folder with detailed specs, history logs, and photos.
+India - Dell Poweredge R710 Utilzing Proxmox so no resources are left underutilized) 
+
+(I recently picked up two Dell Wyse 5070 SFF Nodes. One of which will become my rouuter with the additon of a ethernet to USB 3.0 Male to RJ-f5 Female Adapter. The other will likely be implemented in a LAN secuity capacity)
+
+(There are also 3 gaming PCs I put tooogether on a budget in the hopes of selling them. In the event they are not sold they will be utilized as additional nodes in my lab running with power efficent settings enabled at the BIOS level)
+
+
+Each node has its own folder with detailed specs, history, and photos.
+
+
+---
 
 Journals
 
-The journals/ directory contains dated entries documenting:
+The journals directory contains dated records of hardware changes, upgrades, and experiments.
+This serves as a lab notebook documenting the evolution of the setup.
 
-hardware changes
 
-upgrades & repairs
-
-experiments
-
-service deployments
-
-architectural changes
-
-This acts as a living lab notebook chronicling the evolution of the entire setup.
+---
 
 Technologies in Use
 
-Virtualization: Proxmox, VirtualBox
-Storage: SMB/NFS shares, RAID configurations, backup workflows
-Networking: VLANs, firewall rules, switch configuration, topology diagrams
-Operating Systems: Bazzite Linux, Windows 11, Linux Mint, TrueNAS Scale
+Virtualization: Proxmox, and VirtualBox
+
+Storage: SMB/NFS shares, RAID configurations
+
+Networking: VLANs, firewall rules, switch configs
+
+Operating Systems: Bazzite, Windows, Linux Mint, TrueNas Scale
