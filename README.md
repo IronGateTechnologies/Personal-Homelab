@@ -1,3 +1,23 @@
+Welcome to my homelab documentation repo.
+
+This repository is a living record of my homelab journey — from hardware builds and upgrades to networking diagrams, service deployments, and personal notes.
+
+The homelab serves both as a sandbox for learning cybersecurity and networking, and a playground for tinkering with hardware, virtualization, and storage.
+
+Goals of This Repo
+
+Document each node in the homelab with hardware specs, photos, and configurations
+
+Keep history logs of upgrades, swaps, and experiments
+
+Share wins, failures, and lessons learned (update journal)
+
+Provide reproducible setups for anyone following along
+
+Track the growth of the lab over months and years
+
+Current Nodes
+
 Alpha – Ryzen 9 powerhouse for testing; dual-boot Linux Mint and a debloated version of Windows 11 (courtesy of the Talon Debloat Script)
 
 Bravo – Renewed business-class HP Envy laptop running Linux Mint
