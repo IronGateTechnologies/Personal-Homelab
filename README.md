@@ -25,7 +25,7 @@ Current Nodes
 Alpha – Ryzen 9 powerhouse for testing; dual-boot Linux Mint and a debloated version of Windows 11 (courtesy of the Talon Debloat Script)
 
 
-Bravo – Renewed business-class HP Envy laptop running Linux Mint
+Bravo – Renewed Business-class HP Envy laptop
 
 
 Charlie – Storage and backup server
@@ -37,8 +37,10 @@ Delta – High-performance Proxmox server
 Echo – Home Theater PC / Gaming Center running Bazzite Linux
 
 
-Golf – ThinkPad T440 with Linux Mint (field laptop for out-of-office work)
+Foxtrot – ThinkPad T440 with Linux Mint (field laptop for out-of-office work)
 
+
+Golf / Gamma - A former portable gaming node later repurposed into a powerful mobile workstation. This system operated under the designations Golf (field workstation) and Gamma (auxiliary gaming compute), supporting off-site troubleshooting, lightweight virtualization, and portable gaming workloads. Following irreparable hardware damage, the device has been formally decommissioned from the Virtualized-MultiNode-Network cluster. All previous workloads have been reassigned to active nodes within the environment.
 
 Hotel – HP printer/scanner for document backup and digitizing
 
